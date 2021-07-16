@@ -8,8 +8,9 @@
 * basic layout using HTML & CSS
 
 ## First time using JavaScript
-* 滿好玩的，但我其實沒有用到太多的 js 新功能
+* JavaScript 真的很強大，雖然我講這個沒有說服力
 * 原來 `Class` 在 JavaScript 裡是語法糖
+* 有用到 `SweetAlert` 的套件，讓彈跳視窗變得漂亮、專業許多
 * 不過這個小小備忘錄還是有很多 bug XD
 
 ![備忘錄成果照片](https://i.imgur.com/5RV3BOD.png)
