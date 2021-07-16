@@ -1,0 +1,22 @@
+.app{
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+input{
+    height: 30px;
+    width: 100%;
+}
+
+button{
+    background-color: coral;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center; /*依交錯軸排版*/
+    justify-content: center; /*依主軸排版*/
+}
