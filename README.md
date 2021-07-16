@@ -1,4 +1,7 @@
+[![hackmd-github-sync-badge](https://hackmd.io/ldg6E2y7QGuEEgeVYSjIxw/badge)](https://hackmd.io/ldg6E2y7QGuEEgeVYSjIxw)
+![狀態:正在開發](https://img.shields.io/badge/status-developing-orange)
 # Simple Memo Design
+
 
 ## Tools
 * mainly using JavaScript
