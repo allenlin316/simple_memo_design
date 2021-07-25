@@ -2,6 +2,7 @@
 ![狀態:正在開發](https://img.shields.io/badge/status-developing-orange)
 # Simple Memo Design
 
+[點我來玩玩備忘錄](https://allenlin316.github.io/simple_memo_design/)  
 
 ## Tools
 * mainly using JavaScript
